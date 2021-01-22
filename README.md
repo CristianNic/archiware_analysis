@@ -1,9 +1,8 @@
 Archive Analysis Tool for Archiware P5
 ====================
 
-Add description and sample output
+Add description and sample output graph
 
-Reports...
 
 ![](https://github.com/CristianNic/archiware_analysis/blob/master/listing.jpg)
 
