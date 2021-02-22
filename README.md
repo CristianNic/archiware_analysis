@@ -1,7 +1,7 @@
 Archive Analysis Tool for Archiware P5
 ====================
 
-Add description and sample output graph
+Code excerpt provided with permission without data.
 
 
 ![](https://github.com/CristianNic/archiware_analysis/blob/master/listing.jpg)
